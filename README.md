@@ -1,2 +1,2 @@
 # configclient
-Config files for my GitHub profile.
+configclient 
